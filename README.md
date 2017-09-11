@@ -1,5 +1,5 @@
 # Magento2 newsletter subscribe #
-
+# [Freelance Magento Developer](https://www.phpfreelanceprogrammer.com/magento-programmer.html)
 A newsletter subscribing form that appears after a certain number of seconds.
 
 ![Frontend](docs/frontend.png)
